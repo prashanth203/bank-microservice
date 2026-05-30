@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs (details from git)"
+  message: "Welcome to EazyBank accounts related prod APIs (details from git)***************"
   contactDetails:
     name: "Reina Aiswarya - product owner"
     email: "aiswarya@eazybank.com"
