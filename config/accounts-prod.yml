@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs "
+  contactDetails:
+    name: "Reina Aiswarya - product owner"
+    email: "aiswarya@eazybank.com"
+  onCallSupport:
+    - (453) 555-1234
+    - (236) 523-1345
